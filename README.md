@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student | Aspiring AI Engineer | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=750&lines=Computer+Science+Student+💻;Aspiring+AI+%26+Software+Engineer+🚀;Building+Full-Stack+Applications+🌍;Learning+Machine+Learning+%26+Artificial+Intelligence+🤖;Python+%2B+Rust+Developer+⚡;Linux+Enthusiast+🐧" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=900&lines=Computer+Science+Student+💻;Aspiring+AI+%26+Software+Engineer+🚀;Building+Full-Stack+Applications+🌍;Learning+Machine+Learning+%26+Artificial+Intelligence+🤖;Python+%2B+Rust+Developer+⚡;Linux+Enthusiast+🐧" />
 </p>
 
 ---
