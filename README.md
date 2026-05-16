@@ -19,7 +19,7 @@ Currently focused on:
 - 🤖 Studying **Machine Learning, Mathematics for ML, and AI Engineering**
 - 🐧 Deepening my knowledge of **Linux systems, backend development, and development workflows**
 
-My long-term goal is to become a **world-class Software Engineer or AI Engineer** building impactful technologies that solve real-world problems.
+My long-term goal is to become a **world-class Software Engineer and ML Engineer** building impactful technologies that solve real-world problems.
 
 Based in **Kenya** 🌍
 
